@@ -12,7 +12,7 @@ Atualmente cursando **Técnico em Desenvolvimento de Sistemas**
 Sempre aprendendo novas tecnologias e boas práticas de programação   
 Interesse especial em **projetos web** e **desenvolvimento front-end**
 <br> 
-<br> Tecnologias que estudo 
+<br> 🛠 Tecnologias e Ferramentas
 
 <div style="display: inline_block"> 
 <img align="center" alt="Python" height="40" width="40" 
