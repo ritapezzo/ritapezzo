@@ -12,6 +12,7 @@
 
 <br> 
 <br> 🛠 Tecnologias e Ferramentas
+<br>
 
 <div style="display: inline_block"> 
 <img align="center" alt="Python" height="40" width="40" 
@@ -26,7 +27,7 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
 
 
 
-Como me encontrar 
+- 📫Vamos nos conectar!
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-thebadge&logo=gmail&logoColor=white)](mailto:ritapezzo@gmail.com) 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-thebadge&logo=linkedin&logoColor=white)](https://linkedin.com/in/rita-pezzo-178286118) 
