@@ -1,16 +1,15 @@
 # 🌼 Sou Rita Pezzo
+<br>
+
+
 - ✨ Estudante de Desenvolvimento de Sistemas
-- 🐍 Focada em Python, HTML e CSS 
-- 🚀 Preparando-se para o mercado de tecnologia e todas as descobertas que esse mundo fantástico tem a oferecer
+- 🐍 Focada no aprendizado de **Python**, **HTML** e **CSS** 
+- 🚀 Buscando sempre aplicar boas práticas de programação e código limpo  
 - 📖 Aprendendo novas tecnologias e boas práticas de programação 
+- 🎯 Interesse especial em **projetos web** e **desenvolvimento front-end**
 - 📩 Contato: ritapezzo@gmail.com
 
 
-## 
-Sobre mim   
-Atualmente cursando **Técnico em Desenvolvimento de Sistemas**   
-Sempre aprendendo novas tecnologias e boas práticas de programação   
-Interesse especial em **projetos web** e **desenvolvimento front-end**
 <br> 
 <br> 🛠 Tecnologias e Ferramentas
 
