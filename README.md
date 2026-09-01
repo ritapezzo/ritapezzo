@@ -4,8 +4,7 @@
 
 - ✨ Estudante de Desenvolvimento de Sistemas
 - 🐍 Focada no aprendizado de **Python**, **HTML** e **CSS** 
-- 🚀 Buscando sempre aplicar boas práticas de programação e código limpo  
-- 📖 Aprendendo novas tecnologias e boas práticas de programação 
+- 🚀 Buscando sempre aplicar boas práticas de programação e código limpo
 - 🎯 Interesse especial em **projetos web** e **desenvolvimento front-end**
 - 📩 Contato: ritapezzo@gmail.com
 
